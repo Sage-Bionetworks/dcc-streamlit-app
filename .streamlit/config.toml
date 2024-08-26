@@ -1,7 +1,5 @@
 [theme]
-#primaryColor="#F63366"
-primaryColor="#47C7DA"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#F0F2F6"
-textColor="#262730"
-font="sans serif"
+primaryColor = "#9db2a3"  # Muted sage green
+backgroundColor = "#f4f4f4"  # Light background for better contrast
+secondaryBackgroundColor = "#e0e6de"  # Slightly darker sage for secondary elements
+textColor = "#333333"  # Dark text for readability
